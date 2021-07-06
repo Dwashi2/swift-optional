@@ -31,9 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://github.com/Dwashi2/swift-Square/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20mini%20-%202021-05-25%20at%2008.44.45.png" width="248">
-   <img src="https://github.com/Dwashi2/swift-Square/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20mini%20-%202021-05-25%20at%2008.44.49.png" width="248">
-  <img src="https://github.com/Dwashi2/swift-Square/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20mini%20-%202021-05-25%20at%2008.44.52.png" width="248">
+  <img src="https://github.com/Dwashi2/swift-TableView/blob/main/1.png" width="248">
 </p>
  
  
