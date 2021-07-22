@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://github.com/Dwashi2/swift-TableView/blob/main/1.png" width="248">
+  It's a simple app, only to study Optional
 </p>
  
  
