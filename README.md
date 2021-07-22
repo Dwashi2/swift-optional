@@ -34,10 +34,7 @@
   It's a simple app, only to study Optional
 </p>
  
- 
 
-
-It's a simple app, only to study Optional
 
 
 <!-- GETTING STARTED -->
