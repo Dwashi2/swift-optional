@@ -43,7 +43,7 @@ It's a simple app, only to study Optional
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Open the file functionSquare.xcodeproj 
+Open the file optional.xcodeproj 
 
 ### Prerequisites
 
