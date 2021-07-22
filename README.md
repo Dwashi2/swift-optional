@@ -31,9 +31,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  It's a simple app, only to study Optional
+  <img src="https://github.com/Dwashi2/swift-project-animated/blob/main/video.mov" width="248">
 </p>
- 
+ It's a simple app, only to study Optional
 
 
 
